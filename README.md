@@ -1,0 +1,2 @@
+# organisation_communaute_museomix
+Description de pratiques organisationnelles de Museomix
