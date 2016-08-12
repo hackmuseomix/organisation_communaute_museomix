@@ -1,100 +1,100 @@
-# Mécano museomix : comment organiser son équipe de co-organisateurs d'une édition museomix
+# MÃ©cano museomix : comment organiser son Ã©quipe de co-organisateurs d'une Ã©dition museomix
 
-Voici une proposition d organisation  type avec les différentes pièces du mécano pour construire un Museomix. 
+Voici une proposition d organisation  type  avec les diffÃ©rentes piÃ¨ces du mÃ©cano pour construire un Museomix. 
 
 (Proposition pour Museomix-Rennes 2015)
 
-Il ne s agit que des champs d actions possibles. Les actions spécifiques sont à définir par les personnes qui les porteront. 
+Il ne s agit que des champs d actions possibles. Les actions spÃ©cifiques sont Ã  dÃ©finir par les personnes qui les porteront. 
 
-![](https://hackpad-attachments.s3.amazonaws.com/museomix.hackpad.com_7V1p1t44IOg_p.375545_1431793208197__IMG   Google Drive.png)
+![](https://hackpad-attachments.s3.amazonaws.com/museomix.hackpad.com_7V1p1t44IOg_p.375545_1431793208197__IMG   GoogleÂ Drive.png)
 
-Cette organisation s appuie sur les <u>[expériences des éditions précédentes](https://docs.google.com/document/d/1jZTygXhjVHLksmi4SO3LablW-IR59lRFk1x1-0MkPzc/edit?pli=1)</u> avec l ambition d intégrer au maximum les différents rôles autour de finalités partagées : 
+Cette organisation s appuie sur les <u>[expÃ©riences des Ã©ditions prÃ©cÃ©dentes](https://docs.google.com/document/d/1jZTygXhjVHLksmi4SO3LablW-IR59lRFk1x1-0MkPzc/edit?pli=1)</u> avec l ambition d intÃ©grer au maximum les diffÃ©rents rÃ´les autour de finalitÃ©s partagÃ©es : 
 
-*   Toutes les personnes (organisateurs, partenaires et ingénieux) qui partagent des fonctions proches sont regroupées. (ex : les partenaires  media sont associés à la webteam)
+*   Toutes les personnes (organisateurs, partenaires et ingÃ©nieux) qui partagent des fonctions proches sont regroupÃ©es. (ex : les partenaires  media  sont associÃ©s Ã  la webteam)
 
 
-Description détaillée des différentes parties :
+Description dÃ©taillÃ©e des diffÃ©rentes parties :
 
-## Pôle coordination 
+## PÃ´le coordination 
 
-En bref : la coordination se charge de la mécanique globale et met de l huile dans le moteur. Les coordinateurs  rendent possible l organisation de Museomix en facilitant l'implication des organisateurs (oui c est un peu  meta :)
+En bref : la coordination se charge de la mÃ©canique globale et met de l huile dans le moteur. Les coordinateurs  rendent possible  l organisation de Museomix en facilitant l'implication des organisateurs (oui c est un peu  meta  :)
 
-*   *community building* assure le développement de la communauté des organisateurs et facilite la relation entre ses membres
-*   suscite des initiatives et impulse une dynamique de collaboration entre les membres de la communauté d organisation. 
-*   propose une organisation globale par pôles (ce doc !), identifie les besoins, articule les projets possibles
-*   fédère les actions, assure le suivi de l avancement global (mise à jour du tableau de bord Trello) en restant en lien avec les différents porteurs d actions 
-*   met en place les outils d échanges entre les membres de l organisation avant et pendant l évènement
-*   assure le relais d information entre la communauté et le musée (notamment via le référent musée qui fait parti de la coordination)
-*   propose une statégie globale de partenariat (pris en main par les pôles ensuite)
-*   recherche et conventionne les partenariats budgétaires
-*   organise le planning de l organisation avant, pendant et après Museomix
-*   détermine les lignes du budget et supervise les grandes dépenses
-*   pilote l évaluation et fait le lien avec une cellule d évaluation globale inter-éditions (si elle existe)
+*   *community building* assure le dÃ©veloppement de la communautÃ© des organisateurs et facilite la relation entre ses membres
+*   suscite des initiatives et impulse une dynamique de collaboration entre les membres de la communautÃ© d organisation. 
+*   propose une organisation globale par pÃ´les (ce doc !), identifie les besoins, articule les projets possibles
+*   fÃ©dÃ¨re les actions, assure le suivi de l avancement global (mise Ã  jour du tableau de bord Trello) en restant en lien avec les diffÃ©rents porteurs d actions 
+*   met en place les outils d Ã©changes entre les membres de l organisation avant et pendant l Ã©vÃ¨nement
+*   assure le relais d information entre la communautÃ© et le musÃ©e (notamment via le rÃ©fÃ©rent musÃ©e qui fait parti de la coordination)
+*   propose une statÃ©gie globale de partenariat (pris en main par les pÃ´les ensuite)
+*   recherche et conventionne les partenariats budgÃ©taires
+*   organise le planning de l organisation avant, pendant et aprÃ¨s Museomix
+*   dÃ©termine les lignes du budget et supervise les grandes dÃ©penses
+*   pilote l Ã©valuation et fait le lien avec une cellule d Ã©valuation globale inter-Ã©ditions (si elle existe)
 
-## Pôle logistique 
+## PÃ´le logistique 
 
-En bref : le pôle  logistique rend les choses faciles et  fluide pour les participants et les visiteurs. Il met en place et gère un environnement pratique qui optimise l expérience de l évènement pour tous.
+En bref : le pÃ´le  logistique  rend les choses faciles et  fluide  pour les participants et les visiteurs. Il met en place et gÃ¨re un environnement pratique qui optimise l expÃ©rience de l Ã©vÃ¨nement pour tous.
 
 *   assure le suivi administratif (factures, questions RH&) en lien avec la coordination
 *   assure la gestion du budget (en lien avec la coordination)
-*   assure l organisation de la préparation et du rangement des espaces (en lien avec pôle  expérience)
+*   assure l organisation de la prÃ©paration et du rangement des espaces (en lien avec pÃ´le  expÃ©rience )
 *   assure la logistique des repas (contacts partenaires ou presta, suivi)
-*   assure la logistique des hébergements (suivi d une liste d hébergement partagés)
-*   assure la logistique de l accueil des participants (en lien avec le pôle  expérience de l évènement)
-*   assure la logistique de l accueil des visiteurs (en lien avec le pôle  médiation-accueil)
+*   assure la logistique des hÃ©bergements (suivi d une liste d hÃ©bergement partagÃ©s)
+*   assure la logistique de l accueil des participants (en lien avec le pÃ´le  expÃ©rience de l Ã©vÃ¨nement )
+*   assure la logistique de l accueil des visiteurs (en lien avec le pÃ´le  mÃ©diation-accueil )
 
-## Pôle  expérience des participants (design évènement)
+## PÃ´le  expÃ©rience  des participants (design Ã©vÃ¨nement)
 
-En bref : le pôle  expérience imagine et met en oeuvre un évènement rythmé et stimulant. Globalement il a le souci de l expérience (géniale !) des participants (géniaux !). Les facilitateurs au plus près des équipes assurent le lien avec le pôle  expérience.
+En bref : le pÃ´le  expÃ©rience  imagine et met en oeuvre un Ã©vÃ¨nement rythmÃ© et stimulant. Globalement il a le souci de l expÃ©rience (gÃ©niale !) des participants (gÃ©niaux !). Les facilitateurs au plus prÃ¨s des Ã©quipes assurent le lien avec le pÃ´le  expÃ©rience .
 
-*   organise le planning des participants avant, pendant et après Museomix
-*   défini un déroulé détaillé (séquences de l évènement) des 3+1 jour
-*   impulse et facilite les dynamiques d équipes (collaboration, prises de décisions, gestion des tensions&) 
-*   assure le suivi du  design des espaces et articule les séquences avec ces espaces (en lien avec logistique)
-*   assure le pilotage du rôle et des actions des facilitateurs ( recrutement, formation, suivi, articulation) qui sont porteurs de cette expérience auprès des équipes pendant les 3 jours.
-*   assure le pilotage du rôle des ingénieux dans leur relation aux équipes (en lien avec leurs pôles d affectation)
+*   organise le planning des participants avant, pendant et aprÃ¨s Museomix
+*   dÃ©fini un dÃ©roulÃ© dÃ©taillÃ© (sÃ©quences de l Ã©vÃ¨nement) des 3+1 jour
+*   impulse et facilite les dynamiques d Ã©quipes (collaboration, prises de dÃ©cisions, gestion des tensions&) 
+*   assure le suivi du  design des espaces  et articule les sÃ©quences avec ces espaces (en lien avec logistique)
+*   assure le pilotage du rÃ´le et des actions des facilitateurs ( recrutement , formation, suivi, articulation) qui sont porteurs de cette expÃ©rience auprÃ¨s des Ã©quipes pendant les 3 jours.
+*   assure le pilotage du rÃ´le des ingÃ©nieux dans leur relation aux Ã©quipes (en lien avec leurs pÃ´les d affectation)
 *   pilote l accueil des participants (en lien avec logistique)
-*   pilote la production du livret  participants (en lien avec le pôle media pour sa réalisation)
+*   pilote la production du livret  participants  (en lien avec le pÃ´le media pour sa rÃ©alisation)
 
-## Pôle accueil-médiation ( expérience) des publics
+## PÃ´le accueil-mÃ©diation ( expÃ©rience ) des publics
 
-En bref : l accueil-médiation facilite le lien entre les visiteurs et l évènement Museomix, entre les publics et les équipes et les dispositifs à tester. Globalement il a le souci de l expérience de visite des publics (extérieurs). Ce pôle intègre les ingénieux et les partenaires de la  médiation.
+En bref : l accueil-mÃ©diation facilite le lien entre les visiteurs et l Ã©vÃ¨nement Museomix, entre les publics et les Ã©quipes et les dispositifs Ã  tester. Globalement il a le souci de l expÃ©rience de visite des publics (extÃ©rieurs). Ce pÃ´le intÃ¨gre les ingÃ©nieux et les partenaires de la  mÃ©diation .
 
-*   Assure le rôle d accueil et de médiation des visiteurs (le 3ème jour et jours supplémentaires éventuels). 
-*   pilote l accueil des publics le dernier jour et les jours supplémentaires éventuels (en lien avec logistique)
-*   pilote l accueil des visiteurs  pros pendant les 3 jours (en lien avec la logistique)
-*   pilote la production du livret  publics (description évènement et prototypes) (en lien avec pôle media pour sa réalisation)
-*   trouve et fait le lien avec d éventuels partenaires de la médiation (Master Université, "coachs", designers, metteurs en scènes...)
-*   les ingénieux  médiation (médiateurs, metteurs en scènes, designers, UX&) sont en lien avec le rôle  médiation-Ux dans les équipes pour les aider à imaginer des solutions de médiation et d interfaçage originales et pertinentes avec les publics.
+*   Assure le rÃ´le d accueil et de mÃ©diation des visiteurs (le 3Ã¨me jour et jours supplÃ©mentaires Ã©ventuels). 
+*   pilote l accueil des publics le dernier jour et les jours supplÃ©mentaires Ã©ventuels (en lien avec logistique)
+*   pilote l accueil des visiteurs  pros  pendant les 3 jours (en lien avec la logistique)
+*   pilote la production du livret  publics  (description Ã©vÃ¨nement et prototypes) (en lien avec pÃ´le media pour sa rÃ©alisation)
+*   trouve et fait le lien avec d Ã©ventuels partenaires de la mÃ©diation (Master UniversitÃ©, "coachs", designers, metteurs en scÃ¨nes...)
+*   les ingÃ©nieux  mÃ©diation  (mÃ©diateurs, metteurs en scÃ¨nes, designers, UX&) sont en lien avec le rÃ´le  mÃ©diation-Ux  dans les Ã©quipes pour les aider Ã  imaginer des solutions de mÃ©diation et d interfaÃ§age originales et pertinentes avec les publics.
 
-## Pôle média-web : faire connaître et faire vivre l évènement en ligne
+## PÃ´le mÃ©dia-web : faire connaÃ®tre et faire vivre l Ã©vÃ¨nement en ligne
 
-En bref : Donne de l écho à l évènement et aux projets des équipes sur les réseaux et dans les médias. Ce pôle intègre les ingénieux et les partenaires  média-web. En amont de l évènement, le pôle média-web touche un public curieux élargi et les incitent à en savoir plus, à participer à une rencontre et à répondre à l appel à participation.
+En bref : Donne de l Ã©cho Ã  l Ã©vÃ¨nement et aux projets des Ã©quipes sur les rÃ©seaux et dans les mÃ©dias. Ce pÃ´le intÃ¨gre les ingÃ©nieux et les partenaires  mÃ©dia-web . En amont de l Ã©vÃ¨nement, le pÃ´le mÃ©dia-web touche un public curieux Ã©largi et les incitent Ã  en savoir plus, Ã  participer Ã  une rencontre et Ã  rÃ©pondre Ã  l appel Ã  participation.
 
-*   coordonne la présence de la communauté sur les réseaux sociaux (avant et après)
-*   assure la présentation de l édition Rennes 2015 sur le web
-*   assure l animation de l évènement sur les réseaux sociaux pendant l évènement.
-*   assure la coordination de la mixroom qui fait le lien avec les autres lieux pendant l évènement.
-*   assure la coordination d un éventuel studio média (radio, télé...) pendant l évènement.
-*   assure la production d une vidéo synthèse  souvenir et d éventuelles vidéos pour les plénières
-*   assure la production et la gestion de photos  officielles
-*   assure les réalisations PAO : livret participants (en lien avec pôle  expérience évènement) et livret visiteurs (en lien avec pôle  médiation-accueil)
-*   assure les réalisations signalétiques (en lien pôle  médiation publics et  expériences participants)
-*   assure un rôle de  RP avec les relais médias
-*   trouve et fait lien avec d éventuels partenaires  médias-web (qui contribuent à l évènement)
+*   coordonne la prÃ©sence de la communautÃ© sur les rÃ©seaux sociaux (avant et aprÃ¨s)
+*   assure la prÃ©sentation de l Ã©dition Rennes 2015 sur le web
+*   assure l animation de l Ã©vÃ¨nement sur les rÃ©seaux sociaux pendant l Ã©vÃ¨nement.
+*   assure la coordination de la mixroom qui fait le lien avec les autres lieux pendant l Ã©vÃ¨nement.
+*   assure la coordination d un Ã©ventuel studio mÃ©dia (radio, tÃ©lÃ©...) pendant l Ã©vÃ¨nement.
+*   assure la production d une vidÃ©o synthÃ¨se  souvenir  et d Ã©ventuelles vidÃ©os pour les plÃ©niÃ¨res
+*   assure la production et la gestion de photos  officielles 
+*   assure les rÃ©alisations PAO : livret participants (en lien avec pÃ´le  expÃ©rience Ã©vÃ¨nement ) et livret visiteurs (en lien avec pÃ´le  mÃ©diation-accueil )
+*   assure les rÃ©alisations signalÃ©tiques (en lien pÃ´le  mÃ©diation publics  et  expÃ©riences participants )
+*   assure un rÃ´le de  RP  avec les relais mÃ©dias
+*   trouve et fait lien avec d Ã©ventuels partenaires  mÃ©dias-web  (qui contribuent Ã  l Ã©vÃ¨nement)
 
-## Pôle technos : techshop et fablab
+## PÃ´le technos : techshop et fablab
 
-En bref : Aide les équipes à faire que leurs prototypes  marchent de façon ingénieuse dans un temps court. Ce pôle intègre les ingénieux et les partenaires du  techshop et du  fablab. 
+En bref : Aide les Ã©quipes Ã  faire que leurs prototypes  marchent  de faÃ§on ingÃ©nieuse dans un temps court. Ce pÃ´le intÃ¨gre les ingÃ©nieux et les partenaires du  techshop  et du  fablab . 
 
-*   trouve et fait le lien avec les partenaires  techsop et  fablab
-*   pilote l inventaire et la mise à disposition et retour du matériel 
+*   trouve et fait le lien avec les partenaires  techsop  et  fablab 
+*   pilote l inventaire et la mise Ã  disposition et retour du matÃ©riel 
 
-## Pôle documentation et expertises
+## PÃ´le documentation et expertises
 
-En bref : Aider les équipes à enrichir, documenter leurs prototypes. Ce pôle intègre les ingénieux  documentation-experts. Les ingénieux sont en lien avec le rôle  expert contenu dans les équipes et : 
+En bref : Aider les Ã©quipes Ã  enrichir, documenter leurs prototypes. Ce pÃ´le intÃ¨gre les ingÃ©nieux  documentation-experts . Les ingÃ©nieux sont en lien avec le rÃ´le  expert contenu  dans les Ã©quipes et : 
 
-*   partagent leurs connaissances (pour édition Rennes : sur la Bretagne, son histoire, sa langue&)
-*   bien connaître et mettre à disposition les ressources du musée (collections matérielles, photographiques, autres... experts interne&)
-*   faciliter accès aux bases de données d inventaire
-*   faciliter l accès aux bases iconographiques
+*   partagent leurs connaissances (pour Ã©dition Rennes : sur la Bretagne, son histoire, sa langue&)
+*   bien connaÃ®tre et mettre Ã  disposition les ressources du musÃ©e (collections matÃ©rielles, photographiques, autres... experts interne&)
+*   faciliter accÃ¨s aux bases de donnÃ©es d inventaire
+*   faciliter l accÃ¨s aux bases iconographiques
